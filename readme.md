@@ -1,5 +1,7 @@
 # SK증권 박건희 주임님이 요청하신 카카오톡 자동메세지 전송 프로그램
 
+link to site:  https://jace-jaehoonkim.github.io/SKS_autokakao/.
+<iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=qmIM&width=670&height=475" scrolling="no" frameborder="0"style="overflow:hidden; width:670px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
 KakaoAutoMSGSender 입니다.
 
 # 사용법
