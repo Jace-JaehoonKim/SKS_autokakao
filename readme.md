@@ -29,3 +29,7 @@ python main.py
 # 기능추가
 * 로그아웃을 구현하였습니다.
 * 전송할 메세지를 파일 (send_for_text.txt) 로부터 읽어옵니다.
+
+
+아래 깃을 참고하야 만들었습니다
+https://gitlab.com/Whackur/kakaoautomsgsender.git
